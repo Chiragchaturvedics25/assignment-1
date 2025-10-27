@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <arraylib.h>
+#include "arraylib.h"
 
 // Main menu-driven program
 int main(){
